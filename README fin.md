@@ -28,7 +28,7 @@ Transfer between my accounts: https://sepolia.etherscan.io/tx/0x7dc30acadb05a47d
 
 |Tx A|Tx B|
 |-|-|
-|!\[Tx A](screenshots/txA.png)|!\[Tx B](screenshots/txB.png)|
+|!\[Tx A](txA.png)|!\[Tx B](txB.png)|
 
 
 
